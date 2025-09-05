@@ -1,0 +1,1 @@
+More humble coding scratch play from your humble narrator. This repo is crated in working through Visual Studio Code client on my windows machine, all in service of the great endeavor of working with AI to great future games of past historical dyamics. Verbose. 
